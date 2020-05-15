@@ -187,3 +187,26 @@ section.pricing {
     opacity: 1;
   }
 }
+
+
+@media (max-width:1092px) {
+  #title{
+    text-align: center;
+  }
+
+  h1{
+    font-size: 40px;
+  }
+  h2{
+    font-size: 30px;
+  }
+
+.title-image{
+  margin-top: 60px;
+  margin-right: 100px;
+  transform:  rotate(0deg);
+  position: static;
+
+}
+
+}
